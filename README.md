@@ -1,5 +1,6 @@
 # Python-Code-of-Pulse-Echo-project
-Project: Acoustic Attenuation in Vibration-Damping Alloys(Automatic code to detect acoustic attenuation and speed in cpmposite alloys).
+Project: Acoustic Attenuation in Vibration-Damping Alloys(Automatic code to detect acoustic attenuation and speed in composite alloys).
+
 •	Utilized Python programming for the analysis and visualization of Pulse-Echo data.
 •	Developed Python code to automatically identify individual echoes within a pulse of Pulse-Echo Data.
 •	Employed advanced algorithms for accurate and efficient echo detection.
@@ -11,4 +12,4 @@ Project: Acoustic Attenuation in Vibration-Damping Alloys(Automatic code to dete
 •	Improved accuracy through systematic correlation analysis.
 •	Obtained valuable insights into the acoustic properties of the material under examination.
 •	Results contribute to a better understanding of the velocity and attenuation coefficient of the acoustic wave. Using attenuation and velocity, we ncan relate engineering damping and 
-quality factor of any composite alloy.
+quality factor of composite alloy.
