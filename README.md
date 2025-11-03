@@ -1,7 +1,7 @@
-# Using Python to find acoustic attenuation in Vibration-Damping Alloys (Automate data analysis)
-Project: Using Python to find acoustic attenuation in Vibration-Damping Alloys(Automatic code to detect acoustic attenuation and speed in composite alloys).
 
-Project Overview
+# Project: Using Python to find acoustic attenuation in Vibration-Damping Alloys(Automatic code to detect acoustic attenuation and speed in composite alloys).
+
+## Project Overview
 
 •	Utilized Python programming for the analysis and visualization of Pulse-Echo data.
 •	Developed Python code to automatically identify individual echoes within a pulse of Pulse-Echo Data.
