@@ -1,5 +1,5 @@
 # Python-Code-of-Pulse-Echo-project
-Project: Using Phthon find acoustic attenuation in Vibration-Damping Alloys(Automatic code to detect acoustic attenuation and speed in composite alloys).
+Project: Using Python to find acoustic attenuation in Vibration-Damping Alloys(Automatic code to detect acoustic attenuation and speed in composite alloys).
 
 Project Overview
 
