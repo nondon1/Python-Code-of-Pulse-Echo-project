@@ -48,7 +48,7 @@ The **experimental setup** includes:
 This system captures **multiple echo reflections** corresponding to successive internal reflections within the sample.
 
 ### 📌 Figure 2:
-![Figure 2](images/figure2_setup.png)
+![Figure 2](https://github.com/nondon1/Python-Code-of-Pulse-Echo-project/blob/main/experiement.png)
 
 ---
 
