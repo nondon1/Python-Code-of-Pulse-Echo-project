@@ -1,4 +1,4 @@
-# Using Python to find acoustic attenuation in Vibration-Damping Alloys (Autimate data analysis)
+# Using Python to find acoustic attenuation in Vibration-Damping Alloys (Automate data analysis)
 Project: Using Python to find acoustic attenuation in Vibration-Damping Alloys(Automatic code to detect acoustic attenuation and speed in composite alloys).
 
 Project Overview
