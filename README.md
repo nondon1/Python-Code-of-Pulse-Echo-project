@@ -20,7 +20,7 @@ quality factor of composite alloy.
 # ⚙️ Acoustic Attenuation and Pulse–Echo Analysis in Vibration-Damping Alloys
 
 This project presents a comprehensive **ultrasonic Pulse–Echo analysis** of **vibration-damping metallic alloys** using **Python-based signal processing**.  
-The study evaluates the **sound velocity** and **attenuation coefficient** of Fe–Mn–V–C alloys to understand their acoustic damping properties, which play a critical role in applications such as **naval stealth materials** and **noise reduction systems**.
+The study automated Python based data analysis to evaluates the **sound velocity** and **attenuation coefficient** of Fe–Mn–V–C alloys to understand their acoustic damping properties, which play a critical role in applications such as **naval stealth materials** and **noise reduction systems**.
 
 ---
 
